@@ -1,0 +1,85 @@
+.time{
+    font-size: 30px;
+    margin-left: 700px;
+    color: rgb(235, 238, 236);
+    background:rgba(8, 223, 194, 0.856);
+    border-color: blueviolet green gold;
+    border-radius: 10px;
+    margin-bottom:10 px;
+    margin-top: 0 px;
+    text-align: 2px;
+}
+#hours{
+    color: gold;
+}
+#minutes{
+    color: blueviolet;
+}
+#seconds{
+    color: chartreuse;
+}
+#session{
+    color: deeppink;
+    text-decoration: solid;
+}
+
+.carousel-inner{
+    margin-top:-10px;
+    width:auto;
+    height: 550px;
+}
+.nav-link:hover{
+    background-color: grey;
+}
+.col-md-2{
+    background: black;
+    margin-top: 2px;
+    padding-right: 3px;
+    padding-top: 3px;
+}
+.navflex-column{
+    margin-left: 3px;
+    margin-bottom: 5px;
+    
+}
+.garis{
+    background: rgb(233, 227, 227);
+    color: rgb(240, 224, 224);
+}
+.col-md-10{
+    padding: 10px;
+    padding-top: 6px;
+
+}
+.garis{
+    color: dimgray;
+}
+.lem{
+    font-size: 20px;
+    border: solid;
+    /* background-color: aqua; */
+    border-radius: 5px;
+
+}
+.card-title{ 
+    text-align: center;
+    width: 300px;
+}
+.foter{
+    background-color: rgb(17, 212, 50);
+    text-decoration-color: azure;
+    padding: 10px;
+    padding-top: 10px;
+}
+.lima{
+    margin-left: 20px;
+}
+.p{
+    color: beige;
+}
+.bb{
+    margin-top: 10px;
+}
+.cpy{
+    color: darkorange;
+}
